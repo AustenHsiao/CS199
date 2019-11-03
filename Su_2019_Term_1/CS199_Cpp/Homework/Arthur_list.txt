@@ -1,0 +1,10 @@
+Arthur=Read=Student=Main Character=Aardvark
+David=Read=Caterer=Dad=Father
+Jane=Read=Accountant=Mom=Mother
+D.W.=Read=Student=Annoying sibling=Sister
+Buster=Baxter=student=Supporting character=Best Friend
+Binky=Barnes=student=Supporting character=Friend
+Francine=Frensky=Student=Supporting character=Friend
+Muffy=Crosswire=Student=Supporting character=Friend
+Nigel=Ratburn=Teacher=Adult Authority Figure=Teacher
+Pal=Read=Dog=Dog=Dog		
